@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-1e293b?style=for-the-badge&logo=php&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/LARAVEL-1e293b?style=for-the-badge&logo=laravel&logoColor=ff2d20" />
-  <img src="https://img.shields.io/badge/ANGULAR-1e293b?style=for-the-badge&logo=angular&logoColor=dd0031" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-1e293b?style=for-the-badge&logo=typescript&logoColor=3178c6" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-1e293b?style=for-the-badge&logo=javascript&logoColor=f7df1e" />
-  <img src="https://img.shields.io/badge/MYSQL-1e293b?style=for-the-badge&logo=mysql&logoColor=4479a1" />
-  <img src="https://img.shields.io/badge/TAILWIND-1e293b?style=for-the-badge&logo=tailwind-css&logoColor=38b2ac" />
-  <img src="https://img.shields.io/badge/GIT-1e293b?style=for-the-badge&logo=git&logoColor=f05032" />
+  <img src="https://img.shields.io/badge/PHP-cbd5e1?style=for-the-badge&logo=php&logoColor=1e293b" />
+  <img src="https://img.shields.io/badge/LARAVEL-cbd5e1?style=for-the-badge&logo=laravel&logoColor=ff2d20" />
+  <img src="https://img.shields.io/badge/ANGULAR-cbd5e1?style=for-the-badge&logo=angular&logoColor=dd0031" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-cbd5e1?style=for-the-badge&logo=typescript&logoColor=3178c6" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-cbd5e1?style=for-the-badge&logo=javascript&logoColor=1e293b" />
+  <img src="https://img.shields.io/badge/MYSQL-cbd5e1?style=for-the-badge&logo=mysql&logoColor=4479a1" />
+  <img src="https://img.shields.io/badge/TAILWIND-cbd5e1?style=for-the-badge&logo=tailwind-css&logoColor=38b2ac" />
+  <img src="https://img.shields.io/badge/GIT-cbd5e1?style=for-the-badge&logo=git&logoColor=f05032" />
 </p>
 
 <p align="center">
