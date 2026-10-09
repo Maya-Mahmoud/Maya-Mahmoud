@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/ANGULAR-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/TAILWIND-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-6366F1?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/LARAVEL-EF4444?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/ANGULAR-E11D48?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-0284C7?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-CA8A04?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/MYSQL-0284C7?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TAILWIND-0D9488?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-334155?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ Accountable, multi-tenant SaaS customer loyalty ecosystem with strict data isola
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1CFS4WBHfHD4zEJI1xQ96XEEI8-KxjJ8L/view?usp=drivesdk" target="_blank">
-    <img src="https://img.shields.io/badge/▶_WATCH_LIVE_DEMO-10B981?style=for-the-badge&logo=google-drive&logoColor=white" />
+    <img src="https://img.shields.io/badge/🔥_%20WATCH%20LIVE%20DEMO%20-%20%23FF1493?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
 
@@ -75,7 +75,7 @@ Smart university operational platform featuring dynamic QR-code attendance track
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1YPi-5FHf35EqEbxl901vl0Y9391-C_5T/view?usp=drivesdk" target="_blank">
-    <img src="https://img.shields.io/badge/▶_WATCH_LIVE_DEMO-10B981?style=for-the-badge&logo=google-drive&logoColor=white" />
+    <img src="https://img.shields.io/badge/🔥_%20WATCH%20LIVE%20DEMO%20-%20%23FF1493?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
 
