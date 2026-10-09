@@ -80,7 +80,7 @@ Smart university operational platform featuring dynamic QR-code attendance track
 </p>
 
 <p align="center">
-  <a href="https://github.com/Maya-Mahmoud" target="_blank">
+  <a href=" github.com/Maya-Mahmoud/ManagementSystem" target="_blank">
     <img src="https://img.shields.io/badge/SOURCE-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -103,7 +103,7 @@ Enterprise-grade digital archiving solution designed for secure record managemen
 | Centralized digital repository for structured storage of official enterprise documents and files. | High-speed search algorithms and metadata tagging for instant document lookup and retrieval. | Granular permissions ensuring restricted document visibility based on department hierarchy. |
 
 <p align="center">
-  <a href="https://github.com/Maya-Mahmoud" target="_blank">
+  <a href="github.com/Maya-Mahmoud/archive" target="_blank">
     <img src="https://img.shields.io/badge/SOURCE-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
