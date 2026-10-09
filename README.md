@@ -1,18 +1,18 @@
-<p align="center">
-  <h1 align="center">Hi, I'm Maya Mahmoud 👋</h1>
-  <p align="center"><b>Full-Stack Web Developer · Building Robust Web Apps from Scratch to Production</b></p>
-  <p align="center">📍 Tartus, Syria · Tishreen University · Building robust production web applications and RESTful APIs.</p>
-</p>
+<div align="center">
+  <h1>Hi, I'm Maya Mahmoud 👋</h1>
+  <p><b>Full-Stack Web Developer · Building Robust Web Apps from Scratch to Production</b></p>
+  <p>📍 Tartus, Syria · Tishreen University · Laravel · Angular · RESTful APIs · AI-powered features</p>
+</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/ANGULAR-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/TAILWIND-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-1F2937?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-1F2937?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-1F2937?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-1F2937?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-1F2937?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-1F2937?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 <p align="center">
@@ -28,88 +28,83 @@
 
 ## 🚀 Featured Projects
 
-Below are selected production-grade projects showcasing my expertise in e-commerce ecosystems, smart university platforms, and enterprise data management systems.
+Selected projects showcasing multi-tenant SaaS architecture, smart university platforms, and secure document management systems.
 
 ---
 
 ### 1️⃣ Customer Loyalty Platform
 
-Accountable, multi-tenant SaaS customer loyalty ecosystem with strict data isolation, immutable transaction ledgers, and robust anti-fraud controls.
+Multi-tenant SaaS loyalty platform with strict data isolation, an immutable transaction ledger, and robust anti-fraud controls. Live in production and currently being piloted by its first shops.
 
 | 🏢 Multi-Tenancy & Isolation | 📊 Immutable Ledger | 🛡️ Anti-Fraud Engine |
 | :--- | :--- | :--- |
-| Tenant boundaries ensuring zero data leakage across shops regarding customers, invoices, or reports. | Customer balances derived from an immutable append-only ledger of entries rather than a static total. | Twelve rigorous validation checks including duplicate-invoice constraints and staff phone blocking. |
+| Tenant boundaries ensuring zero data leakage across shops regarding customers, invoices, or reports. | Customer balances derived from an append-only ledger of entries rather than a stored total. | Twelve validation checks including duplicate-invoice constraints and staff phone blocking. |
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1YPi-5FHf35EqEbxl901vl0Y9391-C_5T/view?usp=drivesdk" target="_blank">
-    <img src="https://img.shields.io/badge/🔥_%20WATCH%20LIVE%20DEMO%20-%20%23FF1493?style=for-the-badge&logo=google-drive&logoColor=white" />
+  <a href="https://drive.google.com/file/d/1CFS4WBHfHD4zEJI1xQ96XEEI8-KxjJ8L/view?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/▶_WATCH_DEMO-16A34A?style=for-the-badge" />
   </a>
-</p>
-
-<p align="center">
+  <!-- If you have the live site URL, uncomment and replace YOUR_SITE_URL:
+  <a href="YOUR_SITE_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LIVE_SITE-1F2937?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  -->
   <a href="https://github.com/Maya-Mahmoud/Customer_Loyalty_Platform" target="_blank">
-    <img src="https://img.shields.io/badge/SOURCE-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/maya-mahmoud-65255832b" target="_blank">
-    <img src="https://img.shields.io/badge/AUTHOR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/SOURCE_CODE-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-17-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/cPanel-Deployment-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Laravel_12-1F2937?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular_17-1F2937?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-1F2937?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-1F2937?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHPUnit-1F2937?style=flat-square&logo=phpunit&logoColor=white" />
+  <img src="https://img.shields.io/badge/cPanel-1F2937?style=flat-square&logo=cpanel&logoColor=white" />
 </p>
 
 ---
 
-### 2️⃣ UniSmart (University Facility & Attendance Management Platform)
+### 2️⃣ UniSmart — University Management & Attendance Platform
 
-Smart university operational platform featuring dynamic QR-code attendance tracking, hall booking schedules, and role-based access control. Integrated with artificial intelligence APIs for automated quiz generation.
+Graduation project: a smart university platform with QR-code attendance, hall booking, role-based access control, and an AI teaching assistant.
 
-| ⏱️ Dynamic QR Attendance | 🏛️ Hall Booking & Scheduling | 🤖 AI-Powered Assessment |
+| ⏱️ QR Attendance | 🏛️ Hall Booking & Scheduling | 🤖 AI Assistant & Quizzes |
 | :--- | :--- | :--- |
-| Time-sensitive rotating QR tokens to eliminate proxy attendance and validate student presence securely. | Real-time conflict-free reservation system for university halls, labs, and academic facilities. | Automated quiz and exam question generation leveraging OpenAI and Gemini APIs. |
+| Students scan a code generated by the professor; the server verifies department, year and semester, and a unique key prevents duplicates. | Conflict-free reservations for halls with a single overlap rule shared by lectures, bookings and availability search. | AI teaching assistant and automatic quiz generation from lecture PDFs, built on the Groq API (Llama 3.3). |
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1CFS4WBHfHD4zEJI1xQ96XEEI8-KxjJ8L/view?usp=drivesdk" target="_blank">
-    <img src="https://img.shields.io/badge/🔥_%20WATCH%20LIVE%20DEMO%20-%20%23FF1493?style=for-the-badge&logo=google-drive&logoColor=white" />
+  <a href="https://drive.google.com/file/d/1YPi-5FHf35EqEbxl901vl0Y9391-C_5T/view?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/▶_WATCH_DEMO-16A34A?style=for-the-badge" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/Maya-Mahmoud/ManagementSystem" target="_blank">
-    <img src="https://img.shields.io/badge/SOURCE-111111?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/SOURCE_CODE-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel_12-1F2937?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Livewire_3-1F2937?style=flat-square&logo=livewire&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-1F2937?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-1F2937?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq_API-1F2937?style=flat-square" />
 </p>
 
 ---
 
 ### 3️⃣ Electronic Archiving & Document Management System
 
-Enterprise-grade digital archiving solution designed for secure record management, department-level access control, and fast document retrieval.
+Secure digital archiving solution with custom role-based access control, a full audit trail, and fast document retrieval.
 
-| 📁 Secure File Archiving | 🔍 Advanced Indexing | 🔐 Role-Based Security |
+| 📁 Secure File Storage | 🔍 Search & Filtering | 🔐 RBAC & Audit Trail |
 | :--- | :--- | :--- |
-| Centralized digital repository for structured storage of official enterprise documents and files. | High-speed search algorithms and metadata tagging for instant document lookup and retrieval. | Granular permissions ensuring restricted document visibility based on department hierarchy. |
+| Documents stored privately under UUID names and served only through permission-checked routes. | Live search and filtering across document metadata, with automatic collision-safe numbering. | Custom roles and permissions, plus a log of logins, views, uploads, downloads and deletions. |
 
 <p align="center">
   <a href="https://github.com/Maya-Mahmoud/archive" target="_blank">
-    <img src="https://img.shields.io/badge/SOURCE-111111?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/SOURCE_CODE-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badg
