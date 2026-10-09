@@ -1,8 +1,8 @@
 ### Hi, I'm Maya Mahmoud 👋
 
-**Full-Stack Web Developer · Laravel & Angular Specialist**
+**Full-Stack Web Developer · Building Robust Web Apps from Scratch to Production**
 
-📍 UAE / Tishreen University · Building robust production web applications and RESTful APIs.
+📍 Tartus, Syria · Tishreen University · Building robust production web applications and RESTful APIs.
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -16,7 +16,10 @@
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/maya-mahmoud" target="_blank">
+  <a href="https://maya-mahmoud.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/maya-mahmoud-65255832b" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
