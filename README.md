@@ -40,11 +40,13 @@ Accountable, multi-tenant SaaS customer loyalty ecosystem with strict data isola
 | :--- | :--- | :--- |
 | Tenant boundaries ensuring zero data leakage across shops regarding customers, invoices, or reports. | Customer balances derived from an immutable append-only ledger of entries rather than a static total. | Twelve rigorous validation checks including duplicate-invoice constraints and staff phone blocking. |
 
+
 <p align="center">
   <a href="https://drive.google.com/file/d/1YPi-5FHf35EqEbxl901vl0Y9391-C_5T/view?usp=drivesdk" target="_blank">
-    <img src="https://img.shields.io/badge/✨_EXPLORE_LIVE_DEMO-4F46E5?style=for-the-badge&logo=google-drive&logoColor=white" />
+    <img src="https://img.shields.io/badge/⚡_TRY_THE_LIVE_DEMO_↗-B026FF?style=for-the-badge&labelColor=12051F" alt="Try the Live Demo" />
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/Maya-Mahmoud/Customer_Loyalty_Platform" target="_blank">
