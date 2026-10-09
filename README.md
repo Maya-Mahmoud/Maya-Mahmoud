@@ -44,6 +44,9 @@ Accountable, multi-tenant SaaS customer loyalty ecosystem with strict data isola
   <a href="https://github.com/Maya-Mahmoud/Customer_Loyalty_Platform" target="_blank">
     <img src="https://img.shields.io/badge/SOURCE-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://drive.google.com/file/d/1YPi-5FHf35EqEbxl901vl0Y9391-C_5T/view?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/WATCH%20DEMO-2ea44f?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/maya-mahmoud-65255832b" target="_blank">
     <img src="https://img.shields.io/badge/AUTHOR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -70,6 +73,9 @@ Smart university operational platform featuring dynamic QR-code attendance track
 <p align="center">
   <a href="https://github.com/Maya-Mahmoud" target="_blank">
     <img src="https://img.shields.io/badge/SOURCE-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/1CFS4WBHfHD4zEJI1xQ96XEEI8-KxjJ8L/view?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/WATCH%20DEMO-2ea44f?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
 
