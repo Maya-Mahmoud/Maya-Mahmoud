@@ -40,22 +40,11 @@ Accountable, multi-tenant SaaS customer loyalty ecosystem with strict data isola
 | :--- | :--- | :--- |
 | Tenant boundaries ensuring zero data leakage across shops regarding customers, invoices, or reports. | Customer balances derived from an immutable append-only ledger of entries rather than a static total. | Twelve rigorous validation checks including duplicate-invoice constraints and staff phone blocking. |
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1CFS4WBHfHD4zEJI1xQ96XEEI8-KxjJ8L/view?usp=drivesdk" target="_blank">
-    <img src="https://img.shields.io/badge/▶_WATCH_LIVE_DEMO-10B981?style=for-the-badge&logo=google-drive&logoColor=white" />
-  </a>
-</p>
+[![WATCH LIVE DEMO](https://img.shields.io/badge/▶_WATCH_LIVE_DEMO-10B981?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1CFS4WBHfHD4zEJI1xQ96XEEI8-KxjJ8L/view?usp=drivesdk)
 
-<p align="center">
-  <a href="https://github.com/Maya-Mahmoud/Customer_Loyalty_Platform" target="_blank">
-    <img src="https://img.shields.io/badge/SOURCE-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/maya-mahmoud-65255832b" target="_blank">
-    <img src="https://img.shields.io/badge/AUTHOR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+[![SOURCE](https://img.shields.io/badge/SOURCE-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maya-Mahmoud/Customer_Loyalty_Platform) &nbsp;&nbsp; [![AUTHOR](https://img.shields.io/badge/AUTHOR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maya-mahmoud-65255832b)
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-17-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -73,19 +62,11 @@ Smart university operational platform featuring dynamic QR-code attendance track
 | :--- | :--- | :--- |
 | Time-sensitive rotating QR tokens to eliminate proxy attendance and validate student presence securely. | Real-time conflict-free reservation system for university halls, labs, and academic facilities. | Automated quiz and exam question generation leveraging OpenAI and Gemini APIs. |
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1YPi-5FHf35EqEbxl901vl0Y9391-C_5T/view?usp=drivesdk" target="_blank">
-    <img src="https://img.shields.io/badge/▶_WATCH_LIVE_DEMO-10B981?style=for-the-badge&logo=google-drive&logoColor=white" />
-  </a>
-</p>
+[![WATCH LIVE DEMO](https://img.shields.io/badge/▶_WATCH_LIVE_DEMO-10B981?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1YPi-5FHf35EqEbxl901vl0Y9391-C_5T/view?usp=drivesdk)
 
-<p align="center">
-  <a href="https://github.com/Maya-Mahmoud/ManagementSystem" target="_blank">
-    <img src="https://img.shields.io/badge/SOURCE-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[![SOURCE](https://img.shields.io/badge/SOURCE-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maya-Mahmoud/ManagementSystem)
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
@@ -102,13 +83,9 @@ Enterprise-grade digital archiving solution designed for secure record managemen
 | :--- | :--- | :--- |
 | Centralized digital repository for structured storage of official enterprise documents and files. | High-speed search algorithms and metadata tagging for instant document lookup and retrieval. | Granular permissions ensuring restricted document visibility based on department hierarchy. |
 
-<p align="center">
-  <a href="https://github.com/Maya-Mahmoud/archive" target="_blank">
-    <img src="https://img.shields.io/badge/SOURCE-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[![SOURCE](https://img.shields.io/badge/SOURCE-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maya-Mahmoud/archive)
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
