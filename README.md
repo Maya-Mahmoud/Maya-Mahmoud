@@ -40,13 +40,11 @@ Accountable, multi-tenant SaaS customer loyalty ecosystem with strict data isola
 | :--- | :--- | :--- |
 | Tenant boundaries ensuring zero data leakage across shops regarding customers, invoices, or reports. | Customer balances derived from an immutable append-only ledger of entries rather than a static total. | Twelve rigorous validation checks including duplicate-invoice constraints and staff phone blocking. |
 
-
 <p align="center">
   <a href="https://drive.google.com/file/d/1YPi-5FHf35EqEbxl901vl0Y9391-C_5T/view?usp=drivesdk" target="_blank">
-    <img src="https://img.shields.io/badge/⚡_TRY_THE_LIVE_DEMO_↗-B026FF?style=for-the-badge&labelColor=12051F" alt="Try the Live Demo" />
+    <img src="https://img.shields.io/badge/🌟_WATCH_LIVE_DEMO_🌟-FF007F?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
-
 
 <p align="center">
   <a href="https://github.com/Maya-Mahmoud/Customer_Loyalty_Platform" target="_blank">
@@ -77,7 +75,7 @@ Smart university operational platform featuring dynamic QR-code attendance track
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1CFS4WBHfHD4zEJI1xQ96XEEI8-KxjJ8L/view?usp=drivesdk" target="_blank">
-    <img src="https://img.shields.io/badge/✨_EXPLORE_LIVE_DEMO-4F46E5?style=for-the-badge&logo=google-drive&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌟_WATCH_LIVE_DEMO_🌟-FF007F?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
 
@@ -89,6 +87,7 @@ Smart university operational platform featuring dynamic QR-code attendance track
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-17-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
