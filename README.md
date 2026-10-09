@@ -41,7 +41,7 @@ Accountable, multi-tenant SaaS customer loyalty ecosystem with strict data isola
 | Tenant boundaries ensuring zero data leakage across shops regarding customers, invoices, or reports. | Customer balances derived from an immutable append-only ledger of entries rather than a static total. | Twelve rigorous validation checks including duplicate-invoice constraints and staff phone blocking. |
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1YPi-5FHf35EqEbxl901vl0Y9391-C_5T/view?usp=drivesdk" target="_blank">
+  <a href="https://drive.google.com/file/d/1CFS4WBHfHD4zEJI1xQ96XEEI8-KxjJ8L/view?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/badge/▶_WATCH_LIVE_DEMO-10B981?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
@@ -74,13 +74,13 @@ Smart university operational platform featuring dynamic QR-code attendance track
 | Time-sensitive rotating QR tokens to eliminate proxy attendance and validate student presence securely. | Real-time conflict-free reservation system for university halls, labs, and academic facilities. | Automated quiz and exam question generation leveraging OpenAI and Gemini APIs. |
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1CFS4WBHfHD4zEJI1xQ96XEEI8-KxjJ8L/view?usp=drivesdk" target="_blank">
+  <a href="https://drive.google.com/file/d/1YPi-5FHf35EqEbxl901vl0Y9391-C_5T/view?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/badge/▶_WATCH_LIVE_DEMO-10B981?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Maya-Mahmoud" target="_blank">
+  <a href=" github.com/Maya-Mahmoud/ManagementSystem" target="_blank">
     <img src="https://img.shields.io/badge/SOURCE-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -103,7 +103,7 @@ Enterprise-grade digital archiving solution designed for secure record managemen
 | Centralized digital repository for structured storage of official enterprise documents and files. | High-speed search algorithms and metadata tagging for instant document lookup and retrieval. | Granular permissions ensuring restricted document visibility based on department hierarchy. |
 
 <p align="center">
-  <a href="https://github.com/Maya-Mahmoud" target="_blank">
+  <a href=" github.com/Maya-Mahmoud/archive" target="_blank">
     <img src="https://img.shields.io/badge/SOURCE-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
