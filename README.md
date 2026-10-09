@@ -42,7 +42,7 @@ Accountable, multi-tenant SaaS customer loyalty ecosystem with strict data isola
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1YPi-5FHf35EqEbxl901vl0Y9391-C_5T/view?usp=drivesdk" target="_blank">
-    <img src="https://img.shields.io/badge/✨_EXPLORE_LIVE_DEMO-4F46E5?style=for-the-badge&logo=google-drive&logoColor=white" />
+    <img src="https://img.shields.io/badge/▶_WATCH_LIVE_DEMO-10B981?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
 
@@ -75,7 +75,7 @@ Smart university operational platform featuring dynamic QR-code attendance track
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1CFS4WBHfHD4zEJI1xQ96XEEI8-KxjJ8L/view?usp=drivesdk" target="_blank">
-    <img src="https://img.shields.io/badge/✨_EXPLORE_LIVE_DEMO-4F46E5?style=for-the-badge&logo=google-drive&logoColor=white" />
+    <img src="https://img.shields.io/badge/▶_WATCH_LIVE_DEMO-10B981?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
 
